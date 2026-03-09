@@ -1,11 +1,10 @@
-# hi, i'm allie. i yell at robots and occasionally program things.
+# alliecatowo - developer, builder, digital alchemist 🐹
 
 ```rust
 let allie = Engineer::new()
-    .obsessed_with(["AI-native tooling", "language design", "ambient aesthetics"])
-    .building(["a programming language", "AI agents", "things that should not exist"])
-    .keyboard("Eyelash Sofle ZMK + Lily58 QMK/Vial")
-    .location("Oakland, CA");
+    .focus(["AI-native systems", "language design", "autonomous agents"])
+    .building(["lumen (Rust JIT)", "AI companions", "ambient tech"])
+    .location("Bay Area, CA");
 ```
 
 ---
