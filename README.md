@@ -27,7 +27,9 @@ let allie = Engineer::new()
 | **[anvil](https://github.com/alliecatowo/anvil)** | Agent-native macOS development environment experiments, post-IDE direction. | Active |
 | **[alliecode](https://github.com/alliecatowo/alliecode)** | Provider-agnostic AI coding CLI with a robust terminal interface. | Active |
 | **[keyvis](https://github.com/alliecatowo/keyvis)** | Always-on-top keyboard layer + keypress visualization for split keyboard workflows. | Active |
-| **[allie-cat-keeb-vial](https://github.com/alliecatowo/allie-cat-keeb-vial)** | QMK firmware with Vial support for Lily58 keyboard with custom userspace flows. | Maintained |
+| **[zmk-corne](https://github.com/alliecatowo/zmk-corne)** | Reverse-engineered nonstandard Corne firmware path from raw UF2 binaries, including wireless touchpad bring-up. | Active |
+| **[zmk-sofle](https://github.com/alliecatowo/zmk-sofle)** | AllieCatKeeb Sofle ZMK firmware with dongle mode, docs, and automated build artifacts. | Active |
+| **[allie-cat-keeb-vial](https://github.com/alliecatowo/allie-cat-keeb-vial)** | QMK + Vial firmware track for Lily58 and Holykeebs pointing-device workflows. | Maintained |
 | **[legalease-ai](https://github.com/alliecatowo/legalease-ai)** | Self-hostable legal discovery and search workflows for sensitive document sets. | Maintained |
 
 ## Feature Spotlight
@@ -36,21 +38,22 @@ let allie = Engineer::new()
 - [minis-ai](https://github.com/alliecatowo/minis-ai): mini teammate clones for pre-review feedback loops.
 - [assistarr](https://github.com/alliecatowo/assistarr): natural-language control surface for self-hosted media ops.
 - [keyvis](https://github.com/alliecatowo/keyvis): always-on-top layer and keypress visualization for keyboard-heavy workflows.
-- [zmk-eyelash-corne](https://github.com/alliecatowo/zmk-eyelash-corne): reverse-engineered ZMK path for your Alibaba Corne build.
-- [zmk-sofle](https://github.com/alliecatowo/zmk-sofle): reverse-engineered ZMK path for your Alibaba Sofle build.
+- [zmk-corne](https://github.com/alliecatowo/zmk-corne): reverse-engineered UF2 firmware evidence into a working nonstandard Corne + touchpad ZMK setup.
+- [zmk-sofle](https://github.com/alliecatowo/zmk-sofle): AllieCatKeeb Sofle ZMK branch with dongle mode, docs, and CI build workflow.
 
 ## Build Principles
 
 - Deterministic systems over magical black boxes where reliability matters.
 - Product feel matters as much as architecture quality.
 - Agent workflows should be inspectable, composable, and fast to iterate.
+- I usually ship a new app, tool, or experiment every week to keep feedback loops tight.
 
 ## Ecosystem
 
 - **Language + Runtime Core**: `lumen`
 - **Agent Systems**: `minis-ai`, `assistarr`, `legalease-ai`
 - **Developer Tooling**: `anvil`, `alliecode`, `patchrun`, `puml`
-- **Keyboard + Firmware Systems**: `keyvis`, `allie-cat-keeb-vial`, `zmk-eyelash-corne`, `zmk-sofle`
+- **Keyboard + Firmware Systems**: `keyvis`, `zmk-corne`, `zmk-sofle`, `allie-cat-keeb-vial`
 
 ## Stack
 
