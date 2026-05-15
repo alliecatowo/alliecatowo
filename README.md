@@ -5,7 +5,7 @@ I build AI-native systems end-to-end: from deterministic language/runtime primit
 <p align="center">
   <a href="https://allisons.dev"><img src="https://img.shields.io/badge/Website-allisons.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website badge" /></a>
   <a href="https://github.com/alliecatowo?tab=followers"><img src="https://img.shields.io/github/followers/alliecatowo?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers badge" /></a>
-  <a href="https://github.com/alliecatowo?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-26-2ea44f?style=for-the-badge&logo=github" alt="Public repositories badge" /></a>
+  <a href="https://github.com/alliecatowo?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-28-2ea44f?style=for-the-badge&logo=github" alt="Public repositories badge" /></a>
 </p>
 
 ```rust
@@ -27,7 +27,7 @@ let allie = Engineer::new()
 | **[anvil](https://github.com/alliecatowo/anvil)** | Agent-native macOS development environment experiments, post-IDE direction. | Active |
 | **[alliecode](https://github.com/alliecatowo/alliecode)** | Provider-agnostic AI coding CLI with a robust terminal interface. | Active |
 | **[keyvis](https://github.com/alliecatowo/keyvis)** | Always-on-top keyboard layer + keypress visualization for split keyboard workflows. | Active |
-| **[zmk-corne](https://github.com/alliecatowo/zmk-corne)** | Reverse-engineered nonstandard Corne firmware path from raw UF2 binaries, including wireless touchpad bring-up. | Active |
+| **[allie-cat-corne](https://github.com/alliecatowo/allie-cat-corne)** | Reverse-engineered nonstandard Corne firmware path from raw UF2 binaries, including wireless touchpad bring-up. | Active |
 | **[zmk-sofle](https://github.com/alliecatowo/zmk-sofle)** | AllieCatKeeb Sofle ZMK firmware with dongle mode, docs, and automated build artifacts. | Active |
 | **[allie-cat-keeb-vial](https://github.com/alliecatowo/allie-cat-keeb-vial)** | QMK + Vial firmware track for Lily58 and Holykeebs pointing-device workflows. | Maintained |
 | **[legalease-ai](https://github.com/alliecatowo/legalease-ai)** | Self-hostable legal discovery and search workflows for sensitive document sets. | Maintained |
@@ -38,7 +38,7 @@ let allie = Engineer::new()
 - [minis-ai](https://github.com/alliecatowo/minis-ai): mini teammate clones for pre-review feedback loops.
 - [assistarr](https://github.com/alliecatowo/assistarr): natural-language control surface for self-hosted media ops.
 - [keyvis](https://github.com/alliecatowo/keyvis): always-on-top layer and keypress visualization for keyboard-heavy workflows.
-- [zmk-corne](https://github.com/alliecatowo/zmk-corne): reverse-engineered UF2 firmware evidence into a working nonstandard Corne + touchpad ZMK setup.
+- [allie-cat-corne](https://github.com/alliecatowo/allie-cat-corne): reverse-engineered UF2 firmware evidence into a working nonstandard Corne + touchpad ZMK setup.
 - [zmk-sofle](https://github.com/alliecatowo/zmk-sofle): AllieCatKeeb Sofle ZMK branch with dongle mode, docs, and CI build workflow.
 
 ## Build Principles
@@ -53,7 +53,7 @@ let allie = Engineer::new()
 - **Language + Runtime Core**: `lumen`
 - **Agent Systems**: `minis-ai`, `assistarr`, `legalease-ai`
 - **Developer Tooling**: `anvil`, `alliecode`, `patchrun`, `puml`
-- **Keyboard + Firmware Systems**: `keyvis`, `zmk-corne`, `zmk-sofle`, `allie-cat-keeb-vial`
+- **Keyboard + Firmware Systems**: `keyvis`, `allie-cat-corne`, `zmk-sofle`, `allie-cat-keeb-vial`, `zmk-driver-azoteq-iqs5xx`
 
 ## Stack
 
@@ -89,17 +89,19 @@ let allie = Engineer::new()
 
 ## GitHub Stats
 
-<a href="https://github.com/alliecatowo">
-  <img
-    height="165"
-    alt="GitHub stats for alliecatowo"
-    src="https://github-readme-stats.vercel.app/api?username=alliecatowo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"
-  />
-  <img
-    height="165"
-    alt="Top languages used by alliecatowo"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliecatowo&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
-  />
-</a>
+<p>
+  <a href="https://github.com/alliecatowo?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-28-2ea44f?style=for-the-badge&logo=github" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/alliecatowo?tab=stars">
+    <img src="https://img.shields.io/github/stars/alliecatowo?style=for-the-badge&logo=github&label=Total%20Stars" alt="Total stars" />
+  </a>
+  <a href="https://github.com/alliecatowo?tab=followers">
+    <img src="https://img.shields.io/github/followers/alliecatowo?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  </a>
+  <a href="https://github.com/alliecatowo?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievements-Pair%20x4%20%C2%B7%20Shark%20x3-1f6feb?style=for-the-badge&logo=github" alt="GitHub achievements highlights" />
+  </a>
+</p>
 
 <sub>Full-stack engineer · AI systems + language/runtime + ambient interfaces · she/her · <a href="https://allisons.dev">allisons.dev</a></sub>
