@@ -32,20 +32,12 @@ let allie = Engineer::new()
 
 ## Feature Spotlight
 
-<p>
-  <a href="https://github.com/alliecatowo/lumen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliecatowo&repo=lumen&hide_border=true&cache_seconds=86400" alt="Lumen repository card" />
-  </a>
-  <a href="https://github.com/alliecatowo/minis-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliecatowo&repo=minis-ai&hide_border=true&cache_seconds=86400" alt="Minis-AI repository card" />
-  </a>
-  <a href="https://github.com/alliecatowo/assistarr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliecatowo&repo=assistarr&hide_border=true&cache_seconds=86400" alt="Assistarr repository card" />
-  </a>
-  <a href="https://github.com/alliecatowo/keyvis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliecatowo&repo=keyvis&hide_border=true&cache_seconds=86400" alt="Keyvis repository card" />
-  </a>
-</p>
+- [lumen](https://github.com/alliecatowo/lumen): markdown-native, typed runtime work for deterministic agent workflows.
+- [minis-ai](https://github.com/alliecatowo/minis-ai): mini teammate clones for pre-review feedback loops.
+- [assistarr](https://github.com/alliecatowo/assistarr): natural-language control surface for self-hosted media ops.
+- [keyvis](https://github.com/alliecatowo/keyvis): always-on-top layer and keypress visualization for keyboard-heavy workflows.
+- [zmk-eyelash-corne](https://github.com/alliecatowo/zmk-eyelash-corne): reverse-engineered ZMK path for your Alibaba Corne build.
+- [zmk-sofle](https://github.com/alliecatowo/zmk-sofle): reverse-engineered ZMK path for your Alibaba Sofle build.
 
 ## Build Principles
 
@@ -53,15 +45,12 @@ let allie = Engineer::new()
 - Product feel matters as much as architecture quality.
 - Agent workflows should be inspectable, composable, and fast to iterate.
 
-## Ecosystem Flow
+## Ecosystem
 
-```mermaid
-flowchart LR
-    A[Lumen<br/>Language + Runtime] --> B[Minis-AI<br/>Agent Identity Layer]
-    B --> C[Assistarr / LegalEase<br/>Applied AI Workflows]
-    C --> D[Anvil + AllieCode<br/>Agent-Native Developer UX]
-    D --> E[Keyvis + QMK/ZMK<br/>Human Interface + Hardware Ergonomics]
-```
+- **Language + Runtime Core**: `lumen`
+- **Agent Systems**: `minis-ai`, `assistarr`, `legalease-ai`
+- **Developer Tooling**: `anvil`, `alliecode`, `patchrun`, `puml`
+- **Keyboard + Firmware Systems**: `keyvis`, `allie-cat-keeb-vial`, `zmk-eyelash-corne`, `zmk-sofle`
 
 ## Stack
 
