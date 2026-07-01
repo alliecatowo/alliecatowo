@@ -14,7 +14,7 @@ My ecosystem is built around one thesis: AI systems should be dependable enough 
 ## Human Interface + Hardware Track
 
 - **Interaction Tools**: [keyvis](https://github.com/alliecatowo/keyvis) and [raycast-keyboard-layout](https://github.com/alliecatowo/raycast-keyboard-layout) reduce cognitive load in keyboard-heavy workflows.
-- **Firmware Depth**: [allie-cat-keeb-vial](https://github.com/alliecatowo/allie-cat-keeb-vial) and related ZMK/QMK work anchor low-level ergonomics.
+- **Firmware Depth**: [allie-cat-corne](https://github.com/alliecatowo/allie-cat-corne), [zmk-sofle](https://github.com/alliecatowo/zmk-sofle), [allie-cat-keeb-vial](https://github.com/alliecatowo/allie-cat-keeb-vial), and [zmk-driver-azoteq-iqs5xx](https://github.com/alliecatowo/zmk-driver-azoteq-iqs5xx) anchor low-level ergonomics and custom build workflows.
 
 ## Design Principles
 

@@ -34,11 +34,20 @@
 
 ## Interface + Hardware Systems
 
+### [allie-cat-corne](https://github.com/alliecatowo/allie-cat-corne)
+- Reverse-engineered a nonstandard Corne firmware stack from raw UF2 evidence and shipped wireless touchpad bring-up on ZMK split BLE.
+
+### [zmk-sofle](https://github.com/alliecatowo/zmk-sofle)
+- Maintained Sofle ZMK firmware workflows with dongle mode, documentation, and build automation.
+
 ### [keyvis](https://github.com/alliecatowo/keyvis)
 - Live keyboard layer and keypress visualization for split-keyboard and WebHID/Vial workflows.
 
 ### [allie-cat-keeb-vial](https://github.com/alliecatowo/allie-cat-keeb-vial)
 - QMK firmware with Vial support for Lily58 keyboard setups and custom userspace ergonomics.
+
+### [zmk-driver-azoteq-iqs5xx](https://github.com/alliecatowo/zmk-driver-azoteq-iqs5xx)
+- Maintained upstream-compatible driver fork required for custom Azoteq trackpad firmware builds.
 
 ### [raycast-keyboard-layout](https://github.com/alliecatowo/raycast-keyboard-layout)
 - Raycast-based keyboard layout visualization to reduce layer confusion and improve workflow memory.
