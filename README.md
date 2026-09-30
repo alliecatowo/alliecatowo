@@ -37,7 +37,7 @@ let allie = Engineer::new()
 ## Developer tooling
 
 - **[Glassy](https://github.com/alliecatowo/glassy)** — a minimal GPU-accelerated terminal emulator in Rust, built around low idle overhead and fast agent-heavy terminal workflows.
-- **Ticketmaster (`tm`)** — an interactive coding agent with a ticket-powered background crew: dispatch workers, inspect their work, review submissions, and keep shipping. *(Private repo for now.)*
+- **[Ticketmaster (`tm`)](https://github.com/alliecatowo/ticket-master)** — an interactive coding agent with a ticket-powered background crew: dispatch workers, inspect their work, review submissions, and keep shipping.
 
 ## How I Like to Build
 
