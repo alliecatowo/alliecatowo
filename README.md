@@ -47,6 +47,7 @@ let allie = Engineer::new()
 - Product feel matters as much as architecture quality.
 - Agent workflows should be inspectable, composable, and fast to iterate.
 - I usually ship a new app, tool, or experiment every week to keep feedback loops tight.
+- (Added via the Edit tool, as a demo.)
 
 ## Ecosystem
 
@@ -105,3 +106,5 @@ let allie = Engineer::new()
 </p>
 
 <sub>Full-stack engineer · AI systems + language/runtime + ambient interfaces · she/her · <a href="https://allisons.dev">allisons.dev</a></sub>
+
+<sub>(Added via a bash command, as a demo.)</sub>
