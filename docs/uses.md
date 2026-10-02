@@ -26,7 +26,7 @@ _Last updated: 2026-05-15_
 ## Active Surfaces
 
 - [lumen](https://github.com/alliecatowo/lumen)
-- [minis-ai](https://github.com/alliecatowo/minis-ai)
+- minis-ai (private)
 - [assistarr](https://github.com/alliecatowo/assistarr)
 - [anvil](https://github.com/alliecatowo/anvil)
 - [alliecode](https://github.com/alliecatowo/alliecode)
