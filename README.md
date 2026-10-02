@@ -5,7 +5,7 @@ Software engineer building agent-native systems, developer tools, languages, and
 
 <p align="center">
   <a href="https://webmcp.devpost.com/project-gallery"><img src="https://img.shields.io/badge/OpenAI%20WebMCP%20Challenge-Winner-d4a017?style=for-the-badge" alt="OpenAI WebMCP Challenge Winner" /></a>
-  <a href="https://allisons.dev"><img src="https://img.shields.io/badge/Website-allisons.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="allisons.dev" /></a>
+  <a href="https://allisons.dev"><img src="https://img.shields.io/badge/Website-allisons.dev-111111?style=for-the-badge&logo=firebase&logoColor=white" alt="allisons.dev" /></a>
 </p>
 
 ```rust

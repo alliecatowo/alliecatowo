@@ -7,13 +7,13 @@ My ecosystem is built around one thesis: AI systems should be dependable enough 
 ## AI Workflow Stack
 
 - **Primitives**: [lumen](https://github.com/alliecatowo/lumen) explores deterministic execution and type-safe control for agent-native systems.
-- **Agent Layer**: [minis-ai](https://github.com/alliecatowo/minis-ai) experiments with teammate-like clones as a feedback mechanism.
+- **Agent Layer**: minis-ai (private) experiments with teammate-like clones as a feedback mechanism.
 - **Application Layer**: [assistarr](https://github.com/alliecatowo/assistarr) and [legalease-ai](https://github.com/alliecatowo/legalease-ai) apply AI orchestration to concrete domains.
 - **Developer Experience Layer**: [alliecode](https://github.com/alliecatowo/alliecode) and [anvil](https://github.com/alliecatowo/anvil) explore post-IDE workflows.
 
 ## Human Interface + Hardware Track
 
-- **Interaction Tools**: [keyvis](https://github.com/alliecatowo/keyvis) and [raycast-keyboard-layout](https://github.com/alliecatowo/raycast-keyboard-layout) reduce cognitive load in keyboard-heavy workflows.
+- **Interaction Tools**: [keyvis](https://github.com/alliecatowo/keyvis) (archived) and [raycast-keyboard-layout](https://github.com/alliecatowo/raycast-keyboard-layout) reduce cognitive load in keyboard-heavy workflows.
 - **Firmware Depth**: [allie-cat-keeb-vial](https://github.com/alliecatowo/allie-cat-keeb-vial) and related ZMK/QMK work anchor low-level ergonomics.
 
 ## Design Principles

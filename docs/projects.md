@@ -8,7 +8,7 @@
 - **Stack**: Rust, Cranelift.
 - **Status**: Active.
 
-### [minis-ai](https://github.com/alliecatowo/minis-ai)
+### minis-ai (private)
 - **Problem**: Team feedback loops are slow and AI personas often feel generic.
 - **What I Built**: Mini teammate clones distilled from developer signal to simulate pre-review feedback.
 - **Stack**: Python.
@@ -34,7 +34,7 @@
 
 ## Interface + Hardware Systems
 
-### [keyvis](https://github.com/alliecatowo/keyvis)
+### [keyvis](https://github.com/alliecatowo/keyvis) (archived)
 - Live keyboard layer and keypress visualization for split-keyboard and WebHID/Vial workflows.
 
 ### [allie-cat-keeb-vial](https://github.com/alliecatowo/allie-cat-keeb-vial)
